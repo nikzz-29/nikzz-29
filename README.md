@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я Dmitriy 👋</h1>
-<h3 align="center">Backend Developer | Python / FastAPI | Telegram Bots & Automation</h3>
+<h1 align="center">Dmitriy — Backend Developer</h1>
+<h3 align="center">Python · FastAPI · Telegram Bots & Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Backend+Web+Developer;FastAPI+%2B+PostgreSQL;Building+a+SaaS+Telegram+Bot+Manager;Exploring+Neural+Networks" alt="Typing SVG" />
